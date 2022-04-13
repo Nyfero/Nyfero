@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaëtan SAP</h1>
 <h3 align="center">A passionate of Makefile</h3>
 
-https://profile.intra.42.fr/users/gsap/experiences/cursus_id/21
-
 - 🔭 I’m currently working on **learning CPP**
 
 - 🌱 I’m currently learning **at 42's school**
