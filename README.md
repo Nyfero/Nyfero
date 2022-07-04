@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaëtan SAP</h1>
 <h3 align="center">A passionate of Makefile</h3>
 
-- 🔭 I’m currently working on **learning CPP**
+- 🔭 I’m currently working on **learning Docker**
 
 - 🌱 I’m currently learning **at 42's school**
 
