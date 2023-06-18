@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gaëtan SAP</h1>
-<h3 align="center">A passionate of Makefile</h3>
-
-- 🔭 I’m currently working on **ft_containers**
-
-- 🌱 I’m currently learning **at 42's school**
-
-- 💬 Ask me about **Makefile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  *Linkedin: https://www.linkedin.com/in/gaetan-sap-254a1b1a4/
+  *Mail: gaetan.sap@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
