@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaetan Sap</h1>
-<h3 align="center">A passionate low-level and cybersecurity developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyfero&label=Profile%20views&color=0e75b6&style=flat" alt="nyfero" /> </p>
-
-
-- 🌱 I’m currently learning **Cybersecurity, CTF, Assembly**
 
 - 📫 How to reach me **gaetan.sap@gmail.com**
 
